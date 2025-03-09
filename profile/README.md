@@ -30,6 +30,6 @@ Main Repositories: [Backend](https://github.com/ohcnetwork/care) |
 [Image Processing](https://github.com/ohcnetwork/care_ocr) |
 [Contributors](https://github.com/ohcnetwork/leaderboard)
 
-Deploy Docs: [AWS](https://deploydocs.coronasafe.network/cloud-deployment-overview/aws) | [Azure](https://deploydocs.coronasafe.network/cloud-deployment-overview/azure) | [GCP](https://deploydocs.coronasafe.network/cloud-deployment-overview/gcp)
+Deploy Docs: [AWS](https://docs.ohc.network/docs/devops/Deploy/Care/AWS/) | [Azure](https://deploydocs.coronasafe.network/cloud-deployment-overview/azure) | [GCP](https://docs.ohc.network/docs/devops/Deploy/Care/GCP/) | [Digital Ocean](https://docs.ohc.network/docs/devops/Deploy/Care/digitalOcean/)
 
 Our Student Contributors: [Students](https://contributors.ohc.network/) | [Leaderboard](https://contributors.ohc.network/leaderboard)
