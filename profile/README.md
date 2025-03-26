@@ -10,16 +10,11 @@ Originally a volunteer-driven initiative during the COVID-19 pandemic, OHC has c
 
 Today, beyond the 10BedICU Project, CARE is being adopted for various healthcare applications, including palliative care digitization, demonstrating its adaptability and growing significance in improving healthcare delivery across diverse settings. OHC's journey is a testament to the transformative impact of youth-driven initiatives in healthcare, touching the lives of millions across India.
 
-[Overview](https://coronasafe.network/) |
-[Govt. Orders](https://coronasafe.network/government-orders) | 
-[FieldOps](https://coronasafe.network/fieldops) |
-[TeleICU](https://coronasafe.network/teleicu) |
-[Requirements](https://coronasafe.network/requirements) |
-[Training](https://coronasafe.network/training)
-[Go Live](https://coronasafe.network/go-live) |
-[Modes](https://coronasafe.network/modes) |
-[FAQs](https://coronasafe.network/faqs)
-
+[Overview](https://ohc.network/) | 
+[TeleICU](https://10bedicu.org) |
+[Training](https://school.ohc.network/) |
+[Supporters](https://ohc.network/supporters) |
+[Connect](https://slack.ohc.network)
 # Our Mission
 Engineering free and open-source tools to maximize human efficiency in compassionate healthcare delivery
 
@@ -28,13 +23,13 @@ CARE is a centralized capacity management and patient management system which is
 
 The journey of the Open Healthcare Network is a testament to the power of community collaboration and open-source development for public good. What began as a response to the COVID-19 pandemic has evolved into a comprehensive hospital management system operational across 11 Indian states, directly benefiting over 186.8 million people. The system, seamlessly integrated across 581 hospitals, has facilitated medical attention to 362,349 patients and enabled over half a million consultations via 1,884 dedicated health workers.
 
-Main Repositories: [Backend](https://github.com/coronasafe/care) |
-[Frontend](https://github.com/coronasafe/care_fe) |
-[Dashboard](https://github.com/coronasafe/care_dashboard) |
-[Middleware for Device Integration](https://github.com/coronasafe/teleicu_middleware) |
-[Image Processing](https://github.com/coronasafe/care_ocr) |
-[Contributors](https://github.com/coronasafe/leaderboard)
+Main Repositories: [Backend](https://github.com/ohcnetwork/care) |
+[Frontend](https://github.com/ohcnetwork/care_fe) |
+[Dashboard](https://github.com/ohcnetwork/care_dashboard) |
+[Middleware for Device Integration](https://github.com/ohcnetwork/teleicu_middleware) |
+[Image Processing](https://github.com/ohcnetwork/care_ocr) |
+[Contributors](https://github.com/ohcnetwork/leaderboard)
 
-Deploy Docs: [AWS](https://deploydocs.coronasafe.network/cloud-deployment-overview/aws) | [Azure](https://deploydocs.coronasafe.network/cloud-deployment-overview/azure) | [GCP](https://deploydocs.coronasafe.network/cloud-deployment-overview/gcp)
+Deploy Docs: [AWS](https://docs.ohc.network/docs/devops/Deploy/Care/AWS/) | [Azure](https://deploydocs.coronasafe.network/cloud-deployment-overview/azure) | [GCP](https://docs.ohc.network/docs/devops/Deploy/Care/GCP/) | [Digital Ocean](https://docs.ohc.network/docs/devops/Deploy/Care/digitalOcean/)
 
 Our Student Contributors: [Students](https://contributors.ohc.network/) | [Leaderboard](https://contributors.ohc.network/leaderboard)
